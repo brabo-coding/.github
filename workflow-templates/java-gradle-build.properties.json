@@ -1,7 +1,7 @@
 {
   "name": "Java CI gradle buid",
   "description": "Testing template for shared build step using gradle",
-  "iconName": "gradle-icon",
+  "iconName": "gradle",
   "categories": ["Java"],
   "filePatterns": ["^gradlew*"]
 }
